@@ -1,0 +1,30 @@
+.btn {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#magic-maker {
+    display: block;
+    width: 270px;
+}
+
+.each-gif {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#left-column {
+    position: fixed;
+    z-index: 100;
+    width: 300px;
+    padding-left: 15px;
+}
+
+#topic {
+    width: 270px;
+}
+
+#gif-catcher {
+    margin-top: 15px;
+    padding-left: 300px;
+}
